@@ -1,6 +1,9 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: slide New
+title: "Welcome to our NEW second slide!"
 ---
-Your text
-Use the left arrow to go back!
+I am Pruthwiraj.
+How are you all.
+
+Hope you like this...!!!
+See you soon...
